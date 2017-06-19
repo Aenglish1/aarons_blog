@@ -5,16 +5,12 @@ used as a platform for my insanity.
 
 To start my app for development:
 
-To run application:
-'''
-$ npm run dev
-'''
+**npm run dev**
 
-To start my app for production: (eventually)
-'''
-npm run prod
-'''
+To start my app for production:
+
+**npm run prod**
 
 To view application:
 
-visit *localhost:3000* in web browser
+visit **localhost:3000** in web browser
